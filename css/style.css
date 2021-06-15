@@ -1,0 +1,37 @@
+@import url("https://fonts.googleapis.com/css2?family=Special+Elite&display=swap");
+
+html{
+  padding: 0;
+  margin: 0;
+}
+body {
+  overflow: auto;
+  font-family: "Special Elite", cursive;
+  position: relative;
+}
+main {
+  position: relative;
+  display: block;
+}
+header a {
+  color: white;
+}
+#descricao {
+  font-family: "Special Elite", cursive;
+}
+#descricao p {
+  font-family: "Special Elite", cursive;
+  color: #999;
+}
+.mini-footer {
+  background: #192027;
+  text-align: center;
+  padding: 32px 0;
+}
+.mini-footer p {
+  margin: 0;
+  line-height: 26px;
+  font-size: 15px;
+  color: #999;
+}
+
